@@ -3,6 +3,7 @@
 Primeornot game application
 
 ![first](Image/Screenshot_2022-03-17-15-20-00-54_3cbc7b6f1028d84f4491b0ac99903dad.jpg)
+![second](Image/Screenshot_2022-03-17-15-20-10-15_3cbc7b6f1028d84f4491b0ac99903dad.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
